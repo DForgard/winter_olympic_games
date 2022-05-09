@@ -1,6 +1,5 @@
-# pylint: disable=missing-docstring
-
 import csv
+
 
 COUNTRIES_FILEPATH = "data/dictionary.csv"
 MEDALS_FILEPATH = "data/winter.csv"
